@@ -38,7 +38,7 @@
     },
     {
       "id": "4b36dfdb-6e69-4590-b47a-326198368a86",
-      "name": "Github Trigger - When there is new pull request",
+      "name": "Github Trigger - When there is a new pull request",
       "type": "n8n-nodes-base.githubTrigger",
       "position": [
         -20,
